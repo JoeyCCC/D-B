@@ -1,0 +1,16 @@
+Hello,it's a brief introduction of this code.
+this is the code for functioning the ardunio robot, so it can perform well in maze, find treasure and return information.
+The whole code can be devided into 9 parts simply:
+1.initialization
+2.code for motion
+3.avoid collision by detecting distance
+4.treasure recognization
+5.collision notification
+6.camera
+7.connect to Bluetooth
+8.print path information
+9.control steering engine
+it can function well and perform great with maze and treasure when we use,but what should be clear is the port and speed we define now,it may no suitable for your robot.
+
+hope you enjoy a good time when read this code.
+wish a good day.
